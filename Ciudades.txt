@@ -3,4 +3,5 @@ Bucaramanga
 Bogotá
 Medellín
 Paris
+Toledo
 
